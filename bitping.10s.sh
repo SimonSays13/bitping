@@ -4,7 +4,7 @@
 # <bitbar.version>v1.1</bitbar.version>
 # <bitbar.author>Simon Hudson</bitbar.author>
 # <bitbar.author.github>SimonSays13</bitbar.author.github>
-# <bitbar.desc>Sends pings to one or more sites, display connectivity status, record results to file (seperated daily) and graph the last X minutes performance via the dropdown with no external dependencies</bitbar.desc>
+# <bitbar.desc>Sends pings to one or more sites, display connectivity status, record results to file (separated daily) and graph the last X minutes performance via the dropdown with no external dependencies</bitbar.desc>
 # <bitbar.dependencies></bitbar.dependencies>
 # <bitbar.abouturl>http://www.provulo.com/</bitbar.abouturl>
 
